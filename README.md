@@ -6,3 +6,4 @@ This project will use machine learning (CNN) to classify cat and dog pictures.
 2. CNN
 3. Augmentation
 4.  
+5.
